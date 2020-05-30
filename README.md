@@ -1,6 +1,4 @@
-# Initial page
-
-## Introduction
+# Introduction
 
 * **Purpose**: This is a complete guide of configuring the productive MacOS and using it smoothly. 
 * **Who should Read**: General Users, Programmers, _Writers, and Composers_\(coming soon\).
@@ -15,7 +13,7 @@ They can be enabled/disabled in two ways -- [GUI](https://en.wikipedia.org/wiki/
 
 Most of them are in `System Preferences` and stored as plist files in `~/Library/Preferences/`.
 
-![system-preferences](./system-preferences.png) ![library-preferences](./library-preferences.png)
+![system-preferences](https://github.com/willbchang-book/the-productive-macos/tree/664c7e634a1e00117281e89609fea194e82a5d6e/system-preferences.png) ![library-preferences](https://github.com/willbchang-book/the-productive-macos/tree/664c7e634a1e00117281e89609fea194e82a5d6e/library-preferences.png)
 
 ### File Management
 
@@ -31,7 +29,7 @@ I'll help you:
 * Backup files/folders easily.
 * Have enough storage in most situations.
 
-  ![file-structure-storage](./file-structure-storage.png)
+  ![file-structure-storage](https://github.com/willbchang-book/the-productive-macos/tree/664c7e634a1e00117281e89609fea194e82a5d6e/file-structure-storage.png)
 
 ### Text Editing
 
