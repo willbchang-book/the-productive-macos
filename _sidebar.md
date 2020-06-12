@@ -1,0 +1,50 @@
+- **System Preferences**
+    - General
+    - Desktop & Screen Saver
+    - Dock
+    - Mission Control
+    - Language & Region
+    - Accessibility
+    - Screen Time
+    - Security & Privacy
+    - Software Update
+    - Keyboard
+    - Trackpad
+    - Displays
+    - Date & Time
+    - The Hidden Features
+- **File Management**
+    - Naming Folders
+    - Sync Files/Folders
+    - Alias Folders
+    - Search Files/Folders
+- **Text Editing**
+    - Typing Gesture
+    - Native Editing Shortcuts
+    - Plain Text with Markup Language
+    - Good Features in Text Editor
+    - Reduce Duplicates with Text Snippets
+    - Move/Edit with VIM & Vim Emulator
+    - Search/Replace with Regular Expression
+- **Automation & Tools**
+    - Searching file/folder/image/text/link
+    - Opening file/folder/app
+    - Run Command/Task
+    - Manage Window
+    - OCR
+- **Unified Shortcuts**
+    - Global Shortcuts
+    - Similar Shortcuts
+    - Semantic Shortcuts
+- **Personal Managements**
+    - Reading Management
+    - Project Management
+    - Time Management
+    - Money Management
+    - Password Management
+- **Programmer Setups**
+    - IDE
+    - Version Control
+    - Code Hosting
+    - Terminal Apps
+    - VPN
