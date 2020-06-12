@@ -23,30 +23,31 @@ Control the files without mess.
 ## Text Editing
 Type/Change text fast and efficiently.
 - The right gesture of fingers.
-- Native shortcuts.
+- Native shortcuts for text editing.
 - Plain Text with markup language.
-- Text Editor with its shortcuts.
-- Text Snippets
-- Vim & Vim emulator  
-- Regular Expression
+- Good features of Text Editor.
+- Reduce typing duplicates with Text Snippets
+- Move/Edit with Vim & Vim Emulator
+- Search/Replace with Regular Expression
 
-## Automation & Browser Extensions
+## Automation & Tools
 Make daily things easier.
-- Alfred
-  ![Alfred Features](assets/alfred-features.png)
-- Browser Extensions
-- Firefox Developer Edition(For Developer)
+- Searching file/folder/image/text/link
+- Opening file/folder/app
+- Run Command/Task
+- Manage Window
+- OCR
 
 ## Personal Management
 Build a suitable workflow for personal management.
+- Reading Management
 - Project Management
 - Time Management
 - Money Management
 - Password Management
-- Reading Workflow
 
 ## Unified Shortcuts
-Memorise less shortcuts.
+Easily to memorize less shortcuts.
 - Basic Shortcuts
 - Global Shortcuts
 - Unified shortcuts for similar features 
