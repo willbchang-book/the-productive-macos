@@ -1,64 +1,69 @@
 # Introduction
+The productive MacOS configuration, use less apps to do more things.
 
-- **Purpose**: This is a complete guide of configuring the productive MacOS and using it smoothly. 
-- **Who should Read**: General Users, Programmers, *Writers, and Composers*.
+*For Programmers: All scripts are stored in [willbchang/macos](https://github.com/willbchang/macos).*
 
-Configurations will be explained as much as I can.
-
-**For Programmers**: All scripts are stored in [willbchang/macos](https://github.com/willbchang/macos). It usually comes with descriptions and possible values, sometimes with how I discovered/solved it. Please read it through before running it to prevent unexpected things which also helps you understand MacOS better.
-
-### System Preferences
+## System Preferences
+Enable its essence and disable its dross.
 
 They can be enabled/disabled in two ways -- [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) and [CLI](https://en.wikipedia.org/wiki/Command-line_interface) for general users and hackers, several features can only be enabled/disabled from CLI.
 
 Most of them are in `System Preferences` and stored as plist files in `~/Library/Preferences/`.
 
-![system-preferences](https://github.com/willbchang-book/the-productive-macos/tree/664c7e634a1e00117281e89609fea194e82a5d6e/system-preferences.png) ![library-preferences](https://github.com/willbchang-book/the-productive-macos/tree/664c7e634a1e00117281e89609fea194e82a5d6e/library-preferences.png)
+![system-preferences](assets/system-preferences-ui-overview.png)
+![library-preferences](assets/system-preferences-terminal-library.png)
 
-### File Management
-Read it if you:
-
-- Feel current file structure is mess.
-- Hard to find wanted file/folder.
-- Don't have enough storage as expected.
-
-I'll help you:
-
-- Reorganize the file structure, you can find the file/folder in 3 steps.
-- Backup files/folders easily.
+## File Management
+Control the files without mess.
+- Reorder the file structure and find the file/folder in 3 steps.
+- Backup files/folders.
 - Have enough storage in most situations.
-
   ![file-structure-storage](./assets/file-structure-storage.png)
 
-### Text Editing
+## Text Editing
+Type/Change text fast and efficiently.
+- The right gesture of fingers.
+- Native shortcuts.
+- Plain Text with markup language.
+- Text Editor with its shortcuts.
+- Text Snippets
+- Vim & Vim emulator  
+- Regular Expression
 
-Basic Editing Learn to Type Shortcuts Fast editing - Vim VSCode shortcuts Regular Expression Rich Text vs Plain Text LaTex, Markdown Text editor
+## Automation & Browser Extensions
+Make daily things easier.
+- Alfred
+  ![Alfred Features](assets/alfred-features.png)
+- Browser Extensions
+- Firefox Developer Edition(For Developer)
 
-### Automation & Tools
+## Personal Management
+Build a suitable workflow for personal management.
+- Project Management
+- Time Management
+- Money Management
+- Password Management
+- Reading Workflow
 
-Alfred Chrome Extensions
+## Unified Shortcuts
+Memorise less shortcuts.
+- Basic Shortcuts
+- Global Shortcuts
+- Unified shortcuts for similar features 
 
-### Unified Shortcuts
-
-You'll escape from the overwhelmed feelings by the shortcuts.
-
-Global Shortcuts Unified Similar Shortcuts
-
-### Reading Workflow
-
-Read Later
-
-### Programmer Setups
-
-- VSCode and IDEA Configurations
-- Oh-my-zsh
-- Git
-- Brew
-- Personal Blog Website
+## Programming Setups
+Introduction the core features of the best apps to improve the productivity.
+- IDE
+- Version Control
+- Code Hosting
+- Terminal Apps
 - VPN
 
-### Music Composition
-
+<!--
+## Body Gesture and Relaxing
+- Alexander Technique
+## Music Composition
 - EarMaster 7
 - Dorico 3.5
+-->
 
