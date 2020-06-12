@@ -15,23 +15,22 @@
     - The Hidden Features
 - **File Management**
     - Naming Folders
-    - Sync Files/Folders
+    - Syncing Files/Folders
     - Alias Folders
-    - Search Files/Folders
+    - Searching Files/Folders
 - **Text Editing**
     - Typing Gesture
-    - Native Editing Shortcuts
-    - Plain Text with Markup Language
-    - Good Features in Text Editor
-    - Reduce Duplicates with Text Snippets
-    - Move/Edit with VIM & Vim Emulator
-    - Search/Replace with Regular Expression
+    - Native Shortcuts
+    - Markdown
+    - VSCode
+    - Text Snippets
+    - Vim
+    - Regular Expression
 - **Automation & Tools**
-    - Searching file/folder/image/text/link
-    - Opening file/folder/app
-    - Run Command/Task
-    - Manage Window
-    - OCR
+    - Alfred
+      ![Alfred Features](assets/alfred-features.png)
+    - Browser Extensions
+    - Firefox Developer Edition
 - **Unified Shortcuts**
     - Global Shortcuts
     - Similar Shortcuts
