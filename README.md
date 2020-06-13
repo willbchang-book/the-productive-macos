@@ -1,6 +1,8 @@
 # Introduction
 The productive MacOS configuration, use less apps to do more things.
 
+> This book is on writing...
+
 *For Programmers: All scripts are stored in [willbchang/macos](https://github.com/willbchang/macos).*
 
 ## System Preferences
