@@ -1,35 +1,3 @@
-# Introduction
-The productive MacOS configuration, use less apps to do more things.
-
-> This book is on writing...
-
-*For Programmers: All scripts are stored in [willbchang/macos](https://github.com/willbchang/macos).*
-
-## System Preferences
-Enable its essence and disable its dross.
-
-They can be enabled/disabled in two ways -- [GUI](https://en.wikipedia.org/wiki/Graphical_user_interface) and [CLI](https://en.wikipedia.org/wiki/Command-line_interface) for general users and hackers, several features can only be enabled/disabled from CLI.
-
-Most of them are in `System Preferences` and stored as plist files in `~/Library/Preferences/`.
-
-![system-preferences](assets/system-preferences-ui-overview.png)
-![library-preferences](assets/system-preferences-terminal-library.png)
-
-## File Management
-Control the files without mess.
-- Reorder the file structure and find the file/folder in 3 steps.
-- Backup files/folders.
-- Have enough storage in most situations.
-  ![file-structure-storage](./assets/file-structure-storage.png)
-
-## Text Editing
-Type/Change text fast and efficiently.
-- The right gesture of fingers.
-- Native shortcuts for text editing.
-- Plain Text with markup language.
-- Good features of Text Editor.
-- Reduce typing duplicates with Text Snippets
-- Move/Edit with Vim & Vim Emulator
 - Search/Replace with Regular Expression
 
 ## Automation & Tools
@@ -37,8 +5,12 @@ Make daily things easier.
 - Searching file/folder/image/text/link
 - Opening file/folder/app
 - Run Command/Task
+- Clipboard History
 - Manage Window
 - OCR
+
+![Alfred Features](assets/alfred-features.png)
+
 
 ## Personal Management
 Build a suitable workflow for personal management.

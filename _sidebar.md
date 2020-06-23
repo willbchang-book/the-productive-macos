@@ -1,5 +1,5 @@
 - **System Preferences**
-    - General
+    - [General](system-preferences/general.md)
     - Desktop & Screen Saver
     - Dock
     - Mission Control
@@ -28,7 +28,6 @@
     - Regular Expression
 - **Automation & Tools**
     - Alfred
-      ![Alfred Features](assets/alfred-features.png)
     - Browser Extensions
     - Firefox Developer Edition
 - **Unified Shortcuts**
